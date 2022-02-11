@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Johannes-Welliba
-- 🌱 I’m currently learning Dart/Flutter
 - 📫 How to reach me Johannes.Nodop@welliba.com
 
 <!---
